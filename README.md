@@ -25,16 +25,16 @@ The mapping of character's position to LED segements is following: "fba.cgde"
 I.e: the first character determines the state of segment _f_,
 second character maps to segment _b_ and so on.
 E.g.:
-"f a cgd "
-   ###a###
- ##       __
- #f       _b
- ##       __
-   ###g###
- __       ##
- _e       #c
- __       ##
-   ###d###   __(dot)
+String "f a cgd " makes segments for number 5:\\
+   ###a###\\
+ ##       __\\
+ #f       _b\\
+ ##       __\\
+   ###g###\\
+ __       ##\\
+ _e       #c\\
+ __       ##\\
+   ###d###   __(dot)\\
 
 Schemactics
 -----------
