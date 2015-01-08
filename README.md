@@ -42,4 +42,4 @@ String "f a cgd " makes segments for number 5:
 
 Schemactics
 -----------
-(!https://github.com/jan-tomsa/arduino-LED-display-2x7segments/raw/master/arduino-LED-display-2x7segments_bb.png)
+!(https://github.com/jan-tomsa/arduino-LED-display-2x7segments/raw/master/arduino-LED-display-2x7segments_bb.png)
